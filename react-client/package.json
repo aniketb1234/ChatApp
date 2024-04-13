@@ -14,7 +14,7 @@
     "stompjs": "^2.3.3",
     "web-vitals": "^2.1.2"
   },
-  "proxy": "http://51.21.27.201:8081",
+  "proxy": "http://localhost:8081",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
